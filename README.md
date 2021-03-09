@@ -13,6 +13,62 @@ I am a Full Stack Developer having experience with various web and backend techn
 
 ## ![Hunain Sajid's Stats](https://github-readme-stats.vercel.app/api?username=HunnySajid&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+<br>
+
+# Tech Stack 💻
+
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>ReactJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Nodejs</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Javascript</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+</tr>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>API</center></b></span> 
+<img height=65px src="https://img.icons8.com/bubbles/2x/api.png"> 
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>HTML</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+</tr>
+
+</tbody>
+</table>
+
+---
+
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
@@ -29,4 +85,4 @@ I am a Full Stack Developer having experience with various web and backend techn
 
 ---
 
-⭐️ From [@HunnySajid](https://github.com/HunnySajid)
+⭐️ From [@HunnySajid](https://HunnySajid.github.io)
